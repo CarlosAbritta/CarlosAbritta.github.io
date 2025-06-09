@@ -190,3 +190,13 @@ body {
         font-size: 16px;
     }
 }
+
+.apresentacao__imagem {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(34, 212, 253, 0.5);
+    margin-top: 32px;
+}
